@@ -11,5 +11,6 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
 Follow me
+
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/yuliya-mikhaylova-a7063b252/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/#@yukka1983)
