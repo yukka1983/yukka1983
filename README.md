@@ -2,6 +2,11 @@
 
 ## I'm a beginner QA Software Engineer
 
-Languages and tools
+## Languages and tools
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
+![SoapUI](https://img.shields.io/badge/-SoapUI-090909?style=for-the-badge&logo=SoapUI)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
 Follow me
